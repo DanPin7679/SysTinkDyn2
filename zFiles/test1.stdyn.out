@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<model><name>My First Model</name><shapes><shape>Circle</shape><shape>Rect</shape><shape>Square</shape></shapes></model>

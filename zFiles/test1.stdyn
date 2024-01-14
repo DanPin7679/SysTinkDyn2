@@ -1,0 +1,8 @@
+<model>
+    <name>My First Model</name>
+    <shapes>
+        <shape>Circle</shape>
+        <shape>Rect</shape>
+        <shape>Square</shape>
+    </shapes>
+</model>
