@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include "stdynschema.h"
-#include "renderglwf.h"
+#include "render.h"
 
 int main(int argc, char *argv[])
 {
@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
         std::cout << "Error: " << e.what() << "\n";
     }
 
-    renderGLFW("STDyn");
+    renderCustom("STDyn");
 
     return 0;
 }

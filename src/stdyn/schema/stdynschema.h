@@ -10,7 +10,6 @@ namespace pt = boost::property_tree;
 #ifndef __STDYNSCHEMA_H__
 #define __STDYNSCHEMA_H__
 
-
 struct STDynSchema
 {                      
     std::string m_model;                      
